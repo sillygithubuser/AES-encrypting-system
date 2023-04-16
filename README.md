@@ -29,3 +29,6 @@ pip install pycryptodome
 ```
 -Then download the file.   
 -Execute main.py
+
+# Patreon   
+Become our patreon in [here](https://www.patreon.com/chatgptchatservice)
